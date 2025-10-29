@@ -1,7 +1,7 @@
 End-to-End Data Warehousing → Analytics
 
-This repository focuses on the analytics portion of the project: Data Warehouse Project
-. It implements a pipeline that ingests raw data, constructs a structured data warehouse across layered schemas (Bronze → Silver → Gold), performs analytical transformations, and prepares the data for visualization or dashboards. The project is optimized for PostgreSQL.
+This repository focuses on the analytics portion of the project: Data Warehouse Project - (https://github.com/ShresthaBK/DataWarehouse)
+. It implements a pipeline that ingests gold data layer, c, performs analytical transformations, and prepares the data for visualization or dashboards. The project is optimized for PostgreSQL.
 
 🧭 Project Overview
 
