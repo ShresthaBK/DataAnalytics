@@ -1,6 +1,6 @@
 /*
 ===============================================================================
-Part-to-Whole Analysis - PostgreSQL
+Part-to-Whole Analysis
 ===============================================================================
 Purpose:
     - Compare performance or metrics across dimensions or time periods.
